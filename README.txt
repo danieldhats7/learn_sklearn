@@ -1,1 +1,5 @@
-Exploracion de datos e implementacion de modelos con Scikit learn
+# Exploring data and implementing models with Scikit learn
+* PCA and KPCA
+* Regularization
+* Robust regresor models
+* Emsemble methods
