@@ -3,3 +3,4 @@
 * Regularization
 * Robust regresor models
 * Emsemble methods
+* Clustering
